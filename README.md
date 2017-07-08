@@ -10,7 +10,9 @@ Catching Mouse Game With Openframeworks C++
 ### The Game description
 
 *You can start this game in the computer environment like OSX or Windows platform
+
 *Only Mouse you can play almost everything  
+
 *this game's total time is limited 120 seconds
 
 
